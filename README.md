@@ -51,13 +51,4 @@
     <li>Gerenciamento de Rede Multi-site</li>
     <li>Administração de Usuários</li>
   </ul>
-
-  <!-- Estatísticas do GitHub -->
-  <div>
-    <h4>📊 Estatísticas do GitHub:</h4>
-    <a href="https://github.com/andradeveras">
-      <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andradeveras&layout=compact&langs_count=7&theme=dracula" alt="Top Langs"/>
-      <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=andradeveras&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    </a>
-  </div>
 </div>
